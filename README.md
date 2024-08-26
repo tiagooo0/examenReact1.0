@@ -24,9 +24,6 @@ $ git clone https://github.com/tiagooo0/examenReact1.0
 # Instalar Dependencias
 $ npm i 
 
-# Navegar por el directorio 
-$ cd prueba
-
 # Correr el proyecto
 $ npm run dev
 
